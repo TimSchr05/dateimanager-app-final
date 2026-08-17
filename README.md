@@ -135,7 +135,7 @@ Dies ist der einfachste Weg, die App zu testen.
 Benötigt werden:
 
 * ein Android-Gerät mit Android 7.0 oder neuer
-* die mitgelieferte APK-Datei
+* die mitgelieferte APK-Datei unter `apk/Dateimanager.apk` ([Dateimanager.apk](./apk/Dateimanager.apk))
 
 Vorgehen:
 
